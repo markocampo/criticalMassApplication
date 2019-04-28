@@ -59,7 +59,7 @@ This is a simple codepen application, if the window is greater than the navigati
 
 **3.React Reduction Demo with Bootstrap**
 
-Since I am currently learning basic web development I have not been able to delve into the world of modern React and Redux. This demo inspires me because I see the possibilities of React and Bootstrap and the ability to quickly create beautiful web applications like this demo. Browsing through this website and seeing the animations and professional quality on the graphs/charts as I hover my mouse over them is a very motivating factor and reminds me why I want to learn React and Redux.
+Since I am currently learning basic web development I have not been able to delve into the world of modern React and Redux. This demo inspires me because I see the possibilities of React and Bootstrap and the ability to quickly create beautiful web applications like this demo. Browsing through this website and seeing the animations and professional quality on the graphs/charts as I hover my mouse over them is a very motivating factor and reminds me of why I want to learn React and Redux.
 
 [GitHub](https://github.com/reduction-admin/react-reduction)
 

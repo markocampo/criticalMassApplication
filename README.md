@@ -16,6 +16,7 @@ Roles:
 - Manage team and ensure assets and deliverables are on schedule
 
 [See in portfolio](https://www.ocampomark.com/projects/wayfinder)
+
 [See in GitHub]()
 
 **2.RawAF eCommerce Website**
@@ -30,6 +31,7 @@ Roles:
 -Design and develop the cart system
 
 [See in portfolio](https://www.ocampomark.com/projects/ecommerce-website)
+
 [See in GitHub]()
 
 **3.Weather Application**

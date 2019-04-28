@@ -24,11 +24,11 @@ Roles:
 This is a website I developed for a school assignment. The task was to create our own fictional brand and products to be sold through our fictional eCommerce website where users are able to browse products by category as well as add and checkout items in their cart.
 
 Roles:
--Design and development of the website using HTML, CSS, and PHP
--Create database for my products using MySQL
--Ensure website is responsive accross multiple screen resolutions using CSS @media queries
--Graphic design: asset creation using Photoshop
--Design and develop the cart system
+- Design and development of the website using HTML, CSS, and PHP
+- Create database for my products using MySQL
+- Ensure website is responsive accross multiple screen resolutions using CSS @media queries
+- Graphic design: asset creation using Photoshop
+- Design and develop the cart system
 
 [See in portfolio](https://www.ocampomark.com/projects/ecommerce-website)
 
@@ -39,8 +39,8 @@ Roles:
 This is a simple weather application that asks for the users geolocation in order to display their current city, weather in °C or °F(depending if their country uses the Imperial system), wind speed, and wind direction in MPH or KMPH(also depending if their country uses the Imperial system).
 
 Roles:
--Develop the core application using HTML, CSS, JavaScript, and OpenWeatherMap API
--Research countries that use the Imperial system for unit measurement
+- Develop the core application using HTML, CSS, JavaScript, and OpenWeatherMap API
+- Research countries that use the Imperial system for unit measurement
 
 [See in GitHub]()
 

@@ -15,8 +15,8 @@ Roles:
 - Testing and debugging
 - Manage team and ensure assets and deliverables are on schedule
 
-portfolio link: https://www.ocampomark.com/projects/wayfinder
-github link: 
+[See in portfolio](https://www.ocampomark.com/projects/wayfinder)
+[See in GitHub]()
 
 **2.RawAF eCommerce Website**
 
@@ -29,8 +29,8 @@ Roles:
 -Graphic design: asset creation using Photoshop
 -Design and develop the cart system
 
-portfolio link: https://www.ocampomark.com/projects/ecommerce-website
-github link:
+[See in portfolio](https://www.ocampomark.com/projects/ecommerce-website)
+[See in GitHub]()
 
 **3.Weather Application**
 
@@ -40,7 +40,7 @@ Roles:
 -Develop the core application using HTML, CSS, JavaScript, and OpenWeatherMap API
 -Research countries that use the Imperial system for unit measurement
 
-github link:
+[See in GitHub]()
 
 # Inspiration
 
@@ -48,4 +48,4 @@ github link:
 React
 
 # Code Challenge
-link: https://k29nj6pznr.codesandbox.io/
+[Link to coding challenge](https://k29nj6pznr.codesandbox.io/)

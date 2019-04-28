@@ -48,4 +48,4 @@ Roles:
 React
 
 # Code Challenge
-[Link to coding challenge](https://k29nj6pznr.codesandbox.io/)
+[Link to solution](https://codesandbox.io/s/k29nj6pznr)

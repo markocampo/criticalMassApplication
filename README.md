@@ -47,7 +47,7 @@ Roles:
 # Inspiration
 **Only CSS: 3D Scan**
 
-This project inspired me because I think it's amazing what you can do using only CSS. I only know basic CSS and Bootstrap, but I know that there are CSS preprocessors like Sass and LESS. What intrigued me by this project is that I noticed there are jQuery-like selectors holding variables and properties using the $ sign. There is also the use of the @for loop that are looping through the $ sign variables that I found interesting because I did not you can do programming in CSS! I have only used CSS for styling my websites and applications, but eventualy I want to become a CSS wizard and learn how to make really cool graphic animations like this 3D Scan that I can utilize in my future portfolio and projects.
+This project inspired me because I think it's amazing what you can do using only CSS. I only know basic CSS and Bootstrap, but I know that there are CSS preprocessors like Sass and LESS. What intrigued me by this project is that I noticed there are jQuery-like selectors holding variables and properties using the $ sign. There is also the use of the @for loop that are looping through the $ sign variables that I found interesting because I did not know you can do programming in CSS! I have only used CSS for styling my websites and applications, but eventualy I want to become a CSS wizard and learn how to make really cool graphic animations like this 3D Scan that I can utilize in my future portfolio and projects.
 
 [codepen link](https://codepen.io/YusukeNakaya/pen/OGwmOV)
 

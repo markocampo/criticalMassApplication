@@ -45,9 +45,19 @@ Roles:
 [See in GitHub]()
 
 # Inspiration
+**Only CSS: 3D Scan**
+https://codepen.io/YusukeNakaya/pen/OGwmOV
+
+This project inspired me because I think it's amazing what you can do using only CSS. I only know basic CSS and Bootstrap, but I know that there are CSS preprocessors like Sass and LESS. What intrigued me by this project is that I noticed there are jQuery-like selectors holding variables and properties using the $ sign. There is also the use of the @for loop that are looping through the $ sign variables that I found interesting because I did not you can do programming in CSS! I have only used CSS for styling my websites and applications, but eventualy I want to become a CSS wizard and learn how to make really cool graphic animations like this 3D Scan that I can utilize in my future portfolio and projects.
+
+****
+
+****
+
+
 
 # Focus
-React
+If I were given the time and resources during my internship to learn/build anything I wanted it would be to focus on JavaScript development and learn node.js and React and possibly build a website or application using these technologies. I have purchased an online React course that I have not started and a Web Development Bootcamp course that I have been working through since the end of my school semester that is now 50% complete. I think these are powerful learning tools and I would like to leverage these resources for my continued education in web development. I would also greatly benefit from a mentor who is able to guide me in the right direction towards my career goals.
 
 # Code Challenge
 [Link to solution](https://codesandbox.io/s/k29nj6pznr)
